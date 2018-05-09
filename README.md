@@ -28,7 +28,10 @@
 
 
 **每个月 :two::eight: 号发布最新一期**｜[贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
+## 星图
 
+[![Star chart](https://hellogithub.com/starchart/521xueweihan/HelloGitHub.svg)](https://hellogithub.com/starchart/521xueweihan/HelloGitHub)
+                    
 ## 声明
 如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。HelloGitHub.com 网站源码已开源[项目地址](https://github.com/521xueweihan/hellogithub.com)，欢迎一起开发讨论。
 
